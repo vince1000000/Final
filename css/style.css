@@ -95,27 +95,27 @@ header b{
   cursor: pointer;
 }
 .vslide.one label:first-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/imac.png) 50% 50% no-repeat;
+  background: url(http://slco.org/recreation/jlsorenson/youthSports/images/Track_and_Field.jpg) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide.one label:last-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/joypad.png) 50% 50% no-repeat;
+  background: url(http://healthsciencedegree.info/wp-content/uploads/2014/03/track-and-field-clipart.jpg) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide.two label:first-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/speakers.png) 50% 50% no-repeat;
+  background: url(http://upload.wikimedia.org/wikipedia/en/thumb/e/e2/USATF_logo.svg/991px-USATF_logo.svg.png) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide.two label:last-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/package.png) 50% 50% no-repeat;
+  background: url(http://www.vectorsland.com/imgd/l96196-usa-olympic-team-logo-95636.png) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide.three label:first-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/clock.png) 50% 50% no-repeat;
+  background: url(http://media.oregonlive.com/oregonian/photo/2012/08/-0f36c3a3c380a476.JPG) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide.three label:last-child{
-  background: url(https://cdn1.iconfinder.com/data/icons/ballicons-free/128/diamond.png) 50% 50% no-repeat;
+  background: url(http://www.zacksylvan.com/wp-content/uploads/2012/12/202721_10151283932467976_1752614224_o.jpg) 50% 50% no-repeat;
   background-size: 75%;
 }
 .vslide label:nth-child(n):hover{
